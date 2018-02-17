@@ -1,0 +1,1 @@
+web: gunicorn sampla_test.wsgi —-log-file -
